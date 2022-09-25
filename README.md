@@ -4,9 +4,9 @@
 
 A port of the [monotropic](https://github.com/avelino/monotropic-theme-vscode) of **coffee** color scheme for [Hyper.app](https://hyper.is/)
 
-![monotropic coffee hyper](./imgs/monotropic-coffee-hyper.png)
+![monotropic coffee hyper](./imgs/hyper-monotropic-coffee.png)
 
-### Installation
+## Installation
 
 1. Open HyperTerm's preferences by pressing `Cmd + ,`.
 2. Find and Update the plugins array to include `hyper-monotropic-coffee`:
