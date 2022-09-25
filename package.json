@@ -1,0 +1,30 @@
+{
+  "name": "hyper-monotropic-coffee",
+  "version": "0.1.0",
+  "description": "Hyper theme using the monotropic coffee colors",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "hyper",
+    "hyper-theme",
+    "colors",
+    "theme",
+    "monotropic",
+    "monotropic-coffee",
+    "light"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avelino/hyper-monotropic-coffee.git"
+  },
+  "author": "Thiago Avelino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avelino/hyper-monotropic-coffee/issues"
+  },
+  "homepage": "https://github.com/avelino/hyper-monotropic-coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
